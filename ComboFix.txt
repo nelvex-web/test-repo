@@ -1,0 +1,378 @@
+ComboFix 16-11-13.01 - Administrator 14.11.2016  20:34:15.2.2 - x86
+Microsoft Windows XP Professional  5.1.2600.3.1252.1.1033.18.2047.1223 [GMT 2:00]
+Running from: c:\downloads\ComboFix.exe
+AV: Bitdefender Antivirus Free Edition *Disabled/Updated* {9488E0FA-F058-4673-850E-E755F112BABC}
+FW:  *Enabled* {9488E0FA-F058-4673-850E-E755F112BABC}
+ * Resident AV is active
+.
+.
+WARNING -THIS MACHINE DOES NOT HAVE THE RECOVERY CONSOLE INSTALLED !!
+.
+.
+(((((((((((((((((((((((((((((((((((((((   Other Deletions   )))))))))))))))))))))))))))))))))))))))))))))))))
+.
+.
+c:\documents and settings\Administrator\Desktop\Adware_Removal_Tool_by_TSA.exe
+c:\documents and settings\All Users\Application Data\1434778861.bdinstall.bin
+c:\windows\msdownld.tmp
+c:\windows\XSxS
+.
+.
+(((((((((((((((((((((((((((((((((((((((   Drivers/Services   )))))))))))))))))))))))))))))))))))))))))))))))))
+.
+.
+-------\Legacy_WINISOCDBUS
+-------\Legacy_WISEBOOTASSISTANT
+-------\Service_WinisoCDBus
+-------\Service_WiseBootAssistant
+.
+.
+(((((((((((((((((((((((((   Files Created from 2016-10-14 to 2016-11-14  )))))))))))))))))))))))))))))))
+.
+.
+2016-11-13 19:37 . 2016-11-13 19:37	--------	d-----w-	c:\documents and settings\Administrator\Application Data\Curiolab
+2016-11-13 19:36 . 2016-11-13 19:45	--------	d-----w-	c:\program files\Exterminate It!
+2016-11-13 17:09 . 2016-11-13 16:24	24064	----a-w-	c:\windows\zoek-delete.exe
+2016-11-13 16:24 . 2016-11-13 17:00	--------	d-----w-	C:\zoek_backup
+2016-11-11 19:59 . 2016-11-11 19:59	--------	d-----w-	c:\documents and settings\LocalService\Local Settings\Application Data\Zemana
+2016-11-11 19:59 . 2016-11-11 19:59	181496	----a-w-	c:\windows\system32\drivers\zamguard32.sys
+2016-11-11 19:59 . 2016-11-11 19:59	181496	----a-w-	c:\windows\system32\drivers\zam32.sys
+2016-11-11 19:59 . 2016-11-11 20:00	--------	d-----w-	c:\program files\Zemana AntiMalware
+2016-11-11 19:59 . 2016-11-11 19:59	--------	d-----w-	c:\documents and settings\Administrator\Local Settings\Application Data\Zemana
+2016-11-11 04:41 . 2016-11-11 04:41	--------	d-----w-	c:\documents and settings\Administrator\Local Settings\Application Data\Mail.Ru
+2016-11-07 16:25 . 2016-11-07 16:25	--------	d-----w-	c:\documents and settings\Administrator\Application Data\NVIDIA
+2016-11-06 17:24 . 2016-11-06 17:24	--------	d-----w-	c:\program files\FOXIT SOFTWARE
+2016-11-06 08:47 . 2016-11-06 08:47	--------	d-----w-	c:\documents and settings\Administrator\Application Data\v1
+2016-10-21 17:59 . 2016-10-21 17:59	--------	d-----w-	c:\program files\UXTheme Multi-Patcher
+2016-10-21 17:59 . 2007-02-17 03:03	39936	----a-w-	c:\windows\system32\icacls.exe
+2016-10-21 17:59 . 2003-03-24 22:47	58880	----a-w-	c:\windows\system32\takeown.exe
+2016-10-21 16:52 . 2016-10-21 16:52	--------	d-----w-	C:\DisplayTune
+2016-10-21 16:39 . 2004-08-03 22:56	1392671	----a-w-	c:\windows\msvbvm60.dll
+2016-10-21 16:39 . 2002-01-05 01:40	487424	----a-w-	c:\windows\msvcp70.dll
+2016-10-21 16:39 . 2002-01-05 01:37	344064	----a-w-	c:\windows\msvcr70.dll
+2016-10-19 20:20 . 2016-10-19 20:20	--------	d-----w-	c:\documents and settings\Administrator\Local Settings\Application Data\NVIDIA
+2016-10-19 20:15 . 2014-07-02 20:43	65536	----a-w-	c:\windows\system32\OpenCL.dll
+2016-10-19 20:15 . 2016-11-11 18:17	1549012	----a-w-	c:\windows\system32\nvdrsdb0.bin
+2016-10-19 20:15 . 2016-11-11 18:17	1	----a-w-	c:\windows\system32\nvdrssel.bin
+2016-10-19 20:15 . 2016-10-27 17:35	1548744	----a-w-	c:\windows\system32\nvdrsdb1.bin
+2016-10-19 20:14 . 2014-07-02 20:43	15286272	----a-w-	c:\windows\system32\nvcompiler.dll
+2016-10-19 20:14 . 2014-07-02 20:43	11169792	----a-w-	c:\windows\system32\nvopencl.dll
+2016-10-19 20:14 . 2014-07-02 20:43	1054552	----a-w-	c:\windows\system32\nvdispco3234052.dll
+2016-10-19 20:14 . 2014-07-02 20:43	906584	----a-w-	c:\windows\system32\nvdispgenco3234052.dll
+2016-10-19 20:14 . 2014-07-02 20:43	2977568	----a-w-	c:\windows\system32\nvcuvid.dll
+2016-10-19 20:14 . 2014-07-02 20:43	2747392	----a-w-	c:\windows\system32\nvapi.dll
+2016-10-19 20:14 . 2014-07-02 20:43	23658496	----a-w-	c:\windows\system32\nvoglnt.dll
+2016-10-19 20:14 . 2014-07-02 20:43	11108352	----a-w-	c:\windows\system32\nvcuda.dll
+2016-10-19 19:46 . 2016-10-19 19:46	--------	d-----w-	c:\program files\Common Files\Java
+.
+.
+.
+((((((((((((((((((((((((((((((((((((((((   Find3M Report   ))))))))))))))))))))))))))))))))))))))))))))))))))))
+.
+2016-11-13 15:41 . 2015-08-23 08:10	290304	----a-w-	c:\windows\system32\subinacl.exe
+2016-10-19 19:45 . 2015-09-16 16:36	95808	----a-w-	c:\windows\system32\WindowsAccessBridge.dll
+2016-10-19 19:45 . 2015-09-16 16:36	160256	----a-w-	c:\windows\system32\javacpl.cpl
+2016-10-01 12:16 . 2016-10-01 12:16	1409	----a-w-	c:\windows\system32\tmp9ABA5.FOT
+2016-10-01 12:16 . 2016-10-01 12:16	1409	----a-w-	c:\windows\system32\tmp829A5.FOT
+2016-10-01 12:16 . 2016-10-01 12:16	1409	----a-w-	c:\windows\system32\tmp876A5.FOT
+2016-09-19 11:34 . 2015-08-09 13:57	796352	----a-w-	c:\windows\system32\FlashPlayerApp.exe
+2016-09-19 11:34 . 2008-04-14 11:00	142528	----a-w-	c:\windows\system32\FlashPlayerCPLApp.cpl
+.
+.
+------- Sigcheck -------
+Note: Unsigned files aren't necessarily malware.
+.
+[-] 2011-10-14 . E17798E1E6FF1CA9C67B8576570E05EE . 1614848 . . [5.1.2600.5512] . . c:\windows\system32\sfcfiles.dll
+.
+(((((((((((((((((((((((((((((((((((((   Reg Loading Points   ))))))))))))))))))))))))))))))))))))))))))))))))))
+.
+.
+*Note* empty entries & legit default entries are not shown 
+REGEDIT4
+.
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"CCleaner Monitoring"="c:\program files\CCleaner\CCleaner.exe" [2015-09-16 6495144]
+"H/PC Connection Agent"="c:\program files\Microsoft ActiveSync\wcescomm.exe" [2006-11-13 1289000]
+.
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"RTHDCPL"="RTHDCPL.EXE" [2012-06-06 20065936]
+"SunJavaUpdateSched"="c:\program files\Common Files\Java\Java Update\jusched.exe" [2016-09-22 587288]
+"NvCplDaemon"="c:\windows\system32\NvCpl.dll" [2014-07-02 15724320]
+"NvMediaCenter"="NvMCTray.dll" [2014-07-02 376096]
+"NvBackend"="c:\program files\NVIDIA Corporation\Update Core\NvBackend.exe" [2014-07-25 2403104]
+"ZAM"="c:\program files\Zemana AntiMalware\ZAM.exe" [2016-11-09 13900016]
+.
+[HKEY_CURRENT_USER\software\microsoft\windows\currentversion\policies\explorer]
+"NoSimpleNetIDList"= 1 (0x1)
+.
+[HKEY_LOCAL_MACHINE\system\currentcontrolset\control\securityproviders]
+SecurityProviders	schannel.dll, credssp.dll, digest.dll
+.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\uxpatch]
+@="Service"
+.
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\Wdf01000.sys]
+@="Driver"
+.
+[HKLM\~\startupfolder\C:^Documents and Settings^Administrator^Start Menu^Programs^Startup^Guardian.lnk]
+path=c:\documents and settings\Administrator\Start Menu\Programs\Startup\Guardian.lnk
+backup=c:\windows\pss\Guardian.lnkStartup
+.
+[HKLM\~\startupfolder\C:^Documents and Settings^Administrator^Start Menu^Programs^Startup^Parallels 2X RDP.lnk]
+path=c:\documents and settings\Administrator\Start Menu\Programs\Startup\Parallels 2X RDP.lnk
+backup=c:\windows\pss\Parallels 2X RDP.lnkStartup
+.
+[HKLM\~\startupfolder\C:^Documents and Settings^All Users^Start Menu^Programs^Startup^Smart Wizard Wireless Settings.lnk]
+path=c:\documents and settings\All Users\Start Menu\Programs\Startup\Smart Wizard Wireless Settings.lnk
+backup=c:\windows\pss\Smart Wizard Wireless Settings.lnkCommon Startup
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\Adobe ARM]
+2014-12-19 16:50	1022152	----a-w-	c:\program files\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\CCleaner Monitoring]
+2015-09-16 20:32	6495144	----a-w-	c:\program files\CCleaner\CCleaner.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\EasyTuneV]
+2007-08-14 11:10	20480	----a-w-	c:\program files\Gigabyte\ET5\ETcall.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\H/PC Connection Agent]
+2006-11-13 11:39	1289000	----a-w-	c:\program files\Microsoft ActiveSync\wcescomm.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\NvBackend]
+2014-07-25 14:02	2403104	----a-w-	c:\program files\NVIDIA Corporation\Update Core\NvBackend.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\nwiz]
+2014-07-02 20:43	2593056	----a-w-	c:\program files\NVIDIA Corporation\nview\nwiz.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\SDTray]
+2014-06-24 08:42	4101576	----a-w-	c:\program files\Spybot - Search & Destroy 2\SDTray.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\Skype]
+2016-09-12 15:57	29642368	----a-r-	c:\program files\Skype\Phone\Skype.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\SpybotPostWindows10UpgradeReInstall]
+2015-07-28 16:17	1011200	----a-w-	c:\program files\Common Files\AV\Spybot - Search and Destroy\Test.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\SunJavaUpdateSched]
+2016-09-22 17:00	587288	----a-w-	c:\program files\Common Files\Java\Java Update\jusched.exe
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\shared tools\msconfig\startupreg\UXTheme Launcher]
+2016-09-20 00:24	292756	----a-w-	c:\program files\UXTheme Multi-Patcher\themeengine.exe
+.
+[HKLM\~\services\sharedaccess\parameters\firewallpolicy\standardprofile\AuthorizedApplications\List]
+"c:\\Program Files\\Arduino\\java\\bin\\javaw.exe"=
+"c:\\Program Files\\Spybot - Search & Destroy 2\\SDTray.exe"=
+"c:\\Program Files\\Spybot - Search & Destroy 2\\SDFSSvc.exe"=
+"c:\\Program Files\\Spybot - Search & Destroy 2\\SDUpdate.exe"=
+"c:\\Program Files\\Spybot - Search & Destroy 2\\SDUpdSvc.exe"=
+"c:\\Program Files\\Free Download Manager\\fdm.exe"=
+"c:\program files\Microsoft ActiveSync\rapimgr.exe"= c:\program files\Microsoft ActiveSync\rapimgr.exe:169.254.2.0/255.255.255.0:Enabled:ActiveSync RAPI Manager
+"c:\program files\Microsoft ActiveSync\wcescomm.exe"= c:\program files\Microsoft ActiveSync\wcescomm.exe:169.254.2.0/255.255.255.0:Enabled:ActiveSync Connection Manager
+"c:\program files\Microsoft ActiveSync\WCESMgr.exe"= c:\program files\Microsoft ActiveSync\WCESMgr.exe:169.254.2.0/255.255.255.0:Enabled:ActiveSync Application
+"c:\\Program Files\\2X\\Client\\TSClient.exe"=
+"c:\\Program Files\\2X\\Client\\APPServerClient.exe"=
+"c:\\Documents and Settings\\Administrator\\Local Settings\\Application Data\\Apowersoft\\Apowersoft Online Launcher\\Apowersoft Online Launcher.exe"=
+"c:\\Program Files\\Dassault Systemes\\B18\\intel_a\\code\\bin\\CNEXT.exe"=
+"c:\\Documents and Settings\\Administrator\\Application Data\\VOS\\Dassault\\PROG\\%Program Files%\\Dassault Systemes\\B18\\intel_a\\code\\bin\\CNEXT.exe"=
+"c:\\Program Files\\Gigabyte\\@BIOS\\gwflash.exe"=
+"c:\\WINDOWS\\Network Diagnostic\\xpnetdiag.exe"=
+"c:\\Documents and Settings\\Administrator\\Local Settings\\Application Data\\Apowersoft\\Online Video Downloader\\Online Video Downloader.exe"=
+"c:\\Program Files\\Dassault Systemes\\B18\\intel_a\\code\\bin\\orbixd.exe"=
+"c:\\WINDOWS\\system32\\sessmgr.exe"=
+"c:\\Program Files\\SiSoftware\\SiSoftware Sandra Lite 2012.SP5c\\RpcAgentSrv.exe"=
+"c:\\Program Files\\SiSoftware\\SiSoftware Sandra Lite 2012.SP5c\\WNt500x86\\RpcSandraSrv.exe"=
+"c:\\Program Files\\Dassault Systemes\\B18\\intel_a\\code\\bin\\CATUTIL.exe"=
+"c:\\Program Files\\Winamp\\winamp.exe"=
+"c:\\Program Files\\Simple Port Forwarding\\spf.exe"=
+"c:\\Program Files\\Skype\\Phone\\Skype.exe"=
+"c:\\Program Files\\NVIDIA Corporation\\NetService\\NvNetworkService.exe"=
+"c:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"=
+.
+[HKLM\~\services\sharedaccess\parameters\firewallpolicy\standardprofile\GloballyOpenPorts\List]
+"50005:TCP"= 50005:TCP:*:Disabled:2xRule50005_0
+"26675:TCP"= 26675:TCP:169.254.2.0/255.255.255.0:Enabled:ActiveSync Service
+"3389:TCP"= 3389:TCP:*:Disabled:@xpsp2res.dll,-22009
+"8080:TCP"= 8080:TCP:ipwc
+.
+[HKLM\~\services\sharedaccess\parameters\firewallpolicy\standardprofile\IcmpSettings]
+"AllowInboundEchoRequest"= 1 (0x1)
+.
+R0 avc3;avc3;c:\windows\system32\drivers\avc3.sys [20.06.2015 07:43 633344]
+R0 iteraid;ITERAID_Service_Install;c:\windows\system32\drivers\iteraid.sys [14.10.2011 20:14 26112]
+R0 mv61xxmm;mv61xxmm;c:\windows\system32\drivers\mv61xxmm.sys [14.10.2011 20:14 13616]
+R0 mv64xxmm;mv64xxmm;c:\windows\system32\drivers\mv64xxmm.sys [14.10.2011 20:14 5632]
+R0 mvxxmm;mvxxmm;c:\windows\system32\drivers\mvxxmm.sys [14.10.2011 20:14 13616]
+R0 pwdrvio;pwdrvio;c:\windows\system32\pwdrvio.sys [08.11.2015 11:06 17160]
+R1 gzflt;gzflt;c:\windows\system32\drivers\gzflt.sys [20.06.2015 07:41 164952]
+R1 LUMDriver;LUMDriver;c:\windows\system32\drivers\LUMDriver.sys [24.04.2007 18:52 16688]
+R1 ZAM;ZAM Helper Driver;c:\windows\system32\drivers\zam32.sys [11.11.2016 21:59 181496]
+R1 ZAM_Guard;ZAM Guard Driver;c:\windows\system32\drivers\zamguard32.sys [11.11.2016 21:59 181496]
+R2 BBDemon;Backbone Service;c:\program files\Dassault Systemes\B18\intel_a\code\bin\CATSysDemon.exe [04.05.2007 14:24 36864]
+R2 FoxitReaderService;Foxit Reader Service;c:\program files\FOXIT SOFTWARE\FOXIT READER\FoxitConnectedPDFService.exe [06.11.2016 19:24 1659592]
+R2 gzserv;Bitdefender Antivirus Free Edition;c:\program files\Bitdefender\Antivirus Free Edition\gzserv.exe [20.06.2015 07:43 67592]
+R2 NvNetworkService;NVIDIA Network Service;c:\program files\NVIDIA Corporation\NetService\NvNetworkService.exe [19.10.2016 22:16 1720608]
+R2 PassThru Service;Internet Pass-Through Service;c:\program files\HTC\Internet Pass-Through\PassThruSvr.exe [03.09.2016 12:49 167424]
+R2 SDScannerService;Spybot-S&D 2 Scanner Service;c:\program files\Spybot - Search & Destroy 2\SDFSSvc.exe [01.12.2015 12:14 1738168]
+R2 SDUpdateService;Spybot-S&D 2 Updating Service;c:\program files\Spybot - Search & Destroy 2\SDUpdSvc.exe [01.12.2015 12:28 4088608]
+R2 UnsignedThemes;Unsigned Themes;c:\windows\UnsignedThemesSvc.exe [13.07.2009 00:07 21096]
+R2 uxpatch;uxpatch;c:\windows\system32\drivers\uxpatch.sys [13.07.2009 00:07 25448]
+R2 ZAMSvc;ZAM Controller Service;c:\program files\Zemana AntiMalware\ZAM.exe [11.11.2016 21:59 13900016]
+R3 avchv;avchv Function Driver;c:\windows\system32\drivers\avchv.sys [20.06.2015 07:43 242504]
+R3 avckf;avckf;c:\windows\system32\drivers\avckf.sys [20.06.2015 07:43 486536]
+R3 dfmirage;dfmirage;c:\windows\system32\drivers\dfmirage.sys [27.11.2005 19:25 31896]
+S2 Ca1528av;SPCA1528 Video Camera Service;c:\windows\system32\drivers\Ca1528av.sys [28.03.2016 20:17 516480]
+S2 SDWSCService;Spybot-S&D 2 Security Center Service;c:\program files\Spybot - Search & Destroy 2\SDWSCSvc.exe [01.12.2015 12:28 171928]
+S2 SkypeUpdate;Skype Updater;c:\program files\Skype\Updater\Updater.exe [25.07.2016 11:36 324224]
+S3 Ambfilt;Ambfilt;c:\windows\system32\drivers\Ambfilt.sys [12.07.2014 21:48 1691480]
+S3 BCM44X2;BCM 10/100 Ethernet Network Adapter Driver;c:\windows\system32\drivers\BCM4E5.SYS [12.07.2014 19:47 26568]
+S3 Bulk1528;SPCA1528 Still Camera Service;c:\windows\system32\drivers\Bulk1528.sys [28.03.2016 20:17 11648]
+S3 CH341SER;CH341SER;c:\windows\system32\drivers\CH341SER.SYS [04.11.2011 23:00 39696]
+S3 HTCAND32;HTC Device Driver;c:\windows\system32\drivers\ANDROIDUSB.sys [03.09.2016 12:49 24576]
+S3 htcnprot;HTC NDIS Protocol Driver;c:\windows\system32\drivers\htcnprot.sys [07.12.2012 17:27 21248]
+S3 klim5;Kaspersky Anti-Virus NDIS Filter;c:\windows\system32\DRIVERS\klim5.sys --> c:\windows\system32\DRIVERS\klim5.sys [?]
+S3 libusbK;libusbK USB Driver 04/28/2014 - 3.0.7.0;c:\windows\system32\drivers\libusbK.sys [25.07.2015 14:08 42552]
+S3 pwdspio;pwdspio;c:\windows\system32\pwdspio.sys [08.11.2015 11:06 13064]
+S3 Revoflt;Revoflt;c:\windows\system32\drivers\revoflt.sys [20.03.2016 00:29 27064]
+S3 SandraAgentSrv;SiSoftware Deployment Agent Service;c:\program files\SiSoftware\SiSoftware Sandra Lite 2012.SP5c\RpcAgentSrv.exe [26.12.2015 10:22 68760]
+S3 v3core;v3core;c:\windows\system32\drivers\v3core.sys [28.01.2016 21:52 248832]
+S3 wg121;NETGEAR WG121 802.11g Wireless USB2.0 Adapter;c:\windows\system32\drivers\wg121nd5.sys [20.08.2016 13:27 337216]
+S3 WiseHDInfo;WiseHDInfo;c:\windows\WiseHDInfo32.dll [06.11.2015 20:33 13264]
+S4 2X RDP Backend Service;2X RDP Backend Service;c:\program files\2X\Client\TuxWinClientService.exe [21.08.2015 10:47 2017640]
+S4 2X SSO Service;2X SSO Service;c:\program files\2X\Client\TUXCredProv.exe [21.08.2015 10:47 1529192]
+S4 UI Assistant Service;UI Assistant Service;c:\program files\ZTE Join Air\AssistantServices.exe [08.11.2015 16:03 241664]
+.
+[HKEY_LOCAL_MACHINE\software\microsoft\active setup\installed components\{8A69D345-D564-463c-AFF1-A69D9E530F96}]
+2016-11-13 15:02	1106072	----a-w-	c:\program files\Google\Chrome\Application\49.0.2623.112\Installer\chrmstp.exe
+.
+Contents of the 'Scheduled Tasks' folder
+.
+2016-11-14 c:\windows\Tasks\Check for updates (Spybot - Search & Destroy).job
+- c:\program files\Spybot - Search & Destroy 2\SDUpdate.exe [2015-12-01 09:52]
+.
+2015-12-01 c:\windows\Tasks\Refresh immunization (Spybot - Search & Destroy).job
+- c:\program files\Spybot - Search & Destroy 2\SDImmunize.exe [2015-12-01 08:41]
+.
+2015-12-01 c:\windows\Tasks\Scan the system (Spybot - Search & Destroy).job
+- c:\program files\Spybot - Search & Destroy 2\SDScan.exe [2015-12-01 08:42]
+.
+.
+------- Supplementary Scan -------
+.
+mStart Page = about:blank
+Trusted Zone: solvps.com\www
+TCP: DhcpNameServer = 192.168.1.1
+.
+.
+------- File Associations -------
+.
+inifile="%SystemRoot%\system32\NOTEPAD.EXE" %1
+txtfile="%SystemRoot%\system32\NOTEPAD.EXE" %1
+.
+- - - - ORPHANS REMOVED - - - -
+.
+Toolbar-Locked - (no file)
+MSConfigStartUp-Messenger (Yahoo!) - c:\progra~1\Yahoo!\Messenger\YahooMessenger.exe
+AddRemove-RegHunter - c:\documents and settings\Administrator\Application Data\Enigma Software Group\rh_installer.exe
+.
+.
+.
+**************************************************************************
+.
+catchme 0.3.1398 W2K/XP/Vista - rootkit/stealth malware detector by Gmer, http://www.gmer.net
+Rootkit scan 2016-11-14 21:09
+Windows 5.1.2600 Service Pack 3 NTFS
+.
+scanning hidden processes ...  
+.
+scanning hidden autostart entries ... 
+.
+scanning hidden files ...  
+.
+scan completed successfully
+hidden files: 0
+.
+**************************************************************************
+.
+--------------------- LOCKED REGISTRY KEYS ---------------------
+.
+[HKEY_USERS\S-1-5-21-776561741-527237240-1177238915-500\Software\Microsoft\Internet Explorer\User Preferences]
+@Denied: (2) (Administrator)
+"88D7D0879DAB32E14DE5B3A805A34F98AFF34F5977"=hex:01,00,00,00,d0,8c,9d,df,01,15,
+   d1,11,8c,7a,00,c0,4f,c2,97,eb,01,00,00,00,78,1a,e8,37,f3,d9,aa,4a,9b,33,8e,\
+"2D53CFFC5C1A3DD2E97B7979AC2A92BD59BC839E81"=hex:01,00,00,00,d0,8c,9d,df,01,15,
+   d1,11,8c,7a,00,c0,4f,c2,97,eb,01,00,00,00,78,1a,e8,37,f3,d9,aa,4a,9b,33,8e,\
+.
+[HKEY_USERS\S-1-5-21-776561741-527237240-1177238915-500_Classes\CLSID\{130F8154-E804-4BD5-A07B-35BE69039715}\{A730F6F3-255C-417C-8986-2C578500547E}*Hidden]
+"{2338F5D5-2437-4FC3-9005-A01804321264}"="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4d6YawJrVku8FdmaJ4zzkwAAAAACAAAAAAADZgAAqAAAABAAAAB5CFnyuTtgT9/EjDMBHMicAAAAAASAAACgAAAAEAAAAPpMLVCKUCDNbhJWPfHF/HAYAAAAHUOih/zmnA2ovS4WMSmSyS6cI9rQAzA4FAAAAIWSZ6cHVHP+UJcdw21COYFGNQdN"
+.
+[HKEY_USERS\S-1-5-21-776561741-527237240-1177238915-500_Classes\CLSID\{130F8154-E804-4BD5-A07B-35BE69039715}\{A730F6F3-255C-417C-8986-2C578500547E}*Hidden\DeltaClock]
+"LastSynchronizationClock"=hex(b):90,92,e7,20,dc,9f,d2,08
+"DeltaClock"=hex(b):b1,eb,c3,5d,ff,ff,ff,ff
+.
+[HKEY_LOCAL_MACHINE\software\Classes\CLSID\{B019E3BF-E7E5-453C-A2E4-D2C18CA0866F}]
+@Denied: (A 2) (Everyone)
+@="FlashBroker"
+"LocalizedString"="@c:\\WINDOWS\\system32\\Macromed\\Flash\\FlashUtil32_23_0_0_162_ActiveX.exe,-101"
+.
+[HKEY_LOCAL_MACHINE\software\Classes\CLSID\{B019E3BF-E7E5-453C-A2E4-D2C18CA0866F}\Elevation]
+"Enabled"=dword:00000001
+.
+[HKEY_LOCAL_MACHINE\software\Classes\CLSID\{B019E3BF-E7E5-453C-A2E4-D2C18CA0866F}\LocalServer32]
+@="c:\\WINDOWS\\system32\\Macromed\\Flash\\FlashUtil32_23_0_0_162_ActiveX.exe"
+.
+[HKEY_LOCAL_MACHINE\software\Classes\CLSID\{B019E3BF-E7E5-453C-A2E4-D2C18CA0866F}\TypeLib]
+@="{FAB3E735-69C7-453B-A446-B6823C6DF1C9}"
+.
+[HKEY_LOCAL_MACHINE\software\Classes\Interface\{299817DA-1FAC-4CE2-8F48-A108237013BD}]
+@Denied: (A 2) (Everyone)
+@="IFlashBroker6"
+.
+[HKEY_LOCAL_MACHINE\software\Classes\Interface\{299817DA-1FAC-4CE2-8F48-A108237013BD}\ProxyStubClsid32]
+@="{00020424-0000-0000-C000-000000000046}"
+.
+[HKEY_LOCAL_MACHINE\software\Classes\Interface\{299817DA-1FAC-4CE2-8F48-A108237013BD}\TypeLib]
+@="{FAB3E735-69C7-453B-A446-B6823C6DF1C9}"
+"Version"="1.0"
+.
+[HKEY_LOCAL_MACHINE\software\Microsoft\Internet Explorer\User Preferences]
+@Denied: (2) (Administrator)
+"88D7D0879DAB32E14DE5B3A805A34F98AFF34F5977"=hex:01,00,00,00,d0,8c,9d,df,01,15,
+   d1,11,8c,7a,00,c0,4f,c2,97,eb,01,00,00,00,e1,de,98,6b,02,6b,56,4b,bc,15,d9,\
+"6256FFB019F8FDFBD36745B06F4540E9AEAF222A25"=hex:01,00,00,00,d0,8c,9d,df,01,15,
+   d1,11,8c,7a,00,c0,4f,c2,97,eb,01,00,00,00,e1,de,98,6b,02,6b,56,4b,bc,15,d9,\
+.
+--------------------- DLLs Loaded Under Running Processes ---------------------
+.
+- - - - - - - > 'winlogon.exe'(768)
+c:\program files\2X\Client\TUXCredProv.dll
+c:\windows\system32\msi.dll
+.
+- - - - - - - > 'explorer.exe'(2620)
+c:\windows\system32\WININET.dll
+c:\windows\system32\ieframe.dll
+c:\windows\system32\msi.dll
+.
+------------------------ Other Running Processes ------------------------
+.
+c:\program files\Bitdefender\Antivirus Free Edition\gziface.exe
+c:\documents and settings\All Users\Application Data\EPSON\EPW!3 SSRP\E_S40ST7.EXE
+c:\documents and settings\All Users\Application Data\EPSON\EPW!3 SSRP\E_S40RP7.EXE
+c:\program files\Google\Update\GoogleUpdate.exe
+c:\windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe
+c:\windows\system32\nvsvc32.exe
+c:\windows\RTHDCPL.EXE
+c:\windows\system32\RunDLL32.exe
+c:\progra~1\MICROS~3\rapimgr.exe
+c:\windows\system32\wscntfy.exe
+c:\windows\Microsoft.NET\Framework\v4.0.30319\WPF\WPFFontCache_v0400.exe
+.
+**************************************************************************
+.
+Completion time: 2016-11-14  21:15:22 - machine was rebooted
+ComboFix-quarantined-files.txt  2016-11-14 19:15
+.
+Pre-Run: 127.954.817.024 bytes free
+Post-Run: 127.989.878.784 bytes free
+.
+- - End Of File - - BD11EE4E55C073E9C5F5B0A7EE27C3F7
+A36C5E4F47E84449FF07ED3517B43A31
